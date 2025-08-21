@@ -1,7 +1,7 @@
 {
   "name": "AI Jury Verdict NFT",
   "description": "Proof of AI Jury decision for case #123",
-  "image": "ipfs://QmImageHashHere",
+  "image": "https://raw.githubusercontent.com/mohsin010/metadata/refs/heads/main/cat.png",
   "attributes": [
     { "trait_type": "Verdict", "value": "Approved" },
     { "trait_type": "CaseID", "value": "123" },
