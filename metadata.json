@@ -1,0 +1,10 @@
+{
+  "name": "AI Jury Verdict NFT",
+  "description": "Proof of AI Jury decision for case #123",
+  "image": "ipfs://QmImageHashHere",
+  "attributes": [
+    { "trait_type": "Verdict", "value": "Approved" },
+    { "trait_type": "CaseID", "value": "123" },
+    { "trait_type": "Timestamp", "value": "2025-08-21T10:00:00Z" }
+  ]
+}
